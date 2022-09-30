@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iamneo/static/css/main.e6c13ad2.css",
+    "main.js": "/iamneo/static/js/main.a3702b2d.js",
+    "static/js/787.21c86a08.chunk.js": "/iamneo/static/js/787.21c86a08.chunk.js",
+    "index.html": "/iamneo/index.html",
+    "main.e6c13ad2.css.map": "/iamneo/static/css/main.e6c13ad2.css.map",
+    "main.a3702b2d.js.map": "/iamneo/static/js/main.a3702b2d.js.map",
+    "787.21c86a08.chunk.js.map": "/iamneo/static/js/787.21c86a08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a3702b2d.js"
+  ]
+}
